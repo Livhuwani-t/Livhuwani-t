@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Livhuwani Tovhakale</h1>
 <h3 align="center">A computer science student at the University of Pretoria | Professional Photographer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livhuwani-t" alt="livhuwani-t" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -9,13 +8,13 @@
 
 - 🌱 I’m currently learning **Angular,Typescript,Javascript,AWS Services, and Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Livhuwani-t](https://github.com/Livhuwani-t)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Livhuwani-t)
 
 - 💬 Ask me about **JS,HTML,CSS and Angular**
 
 - 📫 How to reach me **tovhakalelivhuwanil225@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tovhakalelivhuwanil225/](https://www.linkedin.com/in/tovhakalelivhuwanil225/)
+- 📄 Know about my experiences [LinkedIn ](https://www.linkedin.com/in/tovhakalelivhuwanil225/)
 
 - ⚡ Fun fact **I am a professional photographer at Lee Photography**
 
