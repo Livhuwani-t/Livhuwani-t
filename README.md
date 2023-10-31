@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Livhuwani-t
 - 👀 I’m interested in Coding And Photography
-- 🌱 I’m currently learning to code with ALX software Engineering Program
+- 🌱 I’m currently learning Angular, AWS Services, and Java Spring Boot
 - 💞️ I’m looking to collaborate on Photography, if interested DM on IG @lee.phot0graphy._
 - 📫 How to reach me 0768272019 / follow me on instagram
 
